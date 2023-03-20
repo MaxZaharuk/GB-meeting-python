@@ -1,3 +1,4 @@
 .folder
 .folder/*
 .venv
+__pycache__
